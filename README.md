@@ -8,8 +8,7 @@ You can read more explanation on the underlying internet-based research methodol
 https://bit.ly/32liwLe
 
 The following is the interview outline and its corresponding field in the database.
-To keep the talk natural, I sometime do not stuck to it.
-All questions asked are written in the interview reports.
+To keep the talk natural, I sometime do not stuck to it. All questions/answers not listed in the interview outline are stored in other_content. 
 
 background : 1. Can you tell some words about your personal background, and how did you came into this actual position ?
 
@@ -32,3 +31,5 @@ opposition_impact : 9. A wide majority of people are daily internet users. They 
 engagement_platform : 10. Most of Smart-City developers nowadays promote a citizen-centric model engaging all stakeholders (government, academic, companies and civil society) in collaborative decision- making to achieve the best consensual decisions for all. These participative governance model usually lean on collaborative web platforms, to implicate the most people in decision-making for their city. Have you ever implemented such a platform in your organisation ? How do you think your organization could benefit from using it ?
 
 platform_features : 11. These platform apps usually propose different features like: real-time voting on decision to make, direct messaging between users and electives, contact matching between users, open information on Smart-City projects, marketplace of solutions to match companies with potential buyers, Data Analysis on the users... Do you already know what kind of features could help you the best in your goal achieving ?
+
+other_content : all questions/answers not listed in the interview outline
